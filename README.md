@@ -11,7 +11,7 @@ A basic CRUD application to manage hotels using NestJS and MongoDB.
 4. Run the application: `npm run start`.
 
 ## Deployment
-This app is deployed on [Vercel]. You can access it [here](link-to-live-site).
+This app is deployed on [Vercel]. You can access it [here](https://hotel-management-six-gules.vercel.app/).
 
 ## Endpoints
 - `POST /hotels`: Create a hotel.
